@@ -14,8 +14,10 @@ clean CSV and Excel file.
 Python, Requests, BeautifulSoup, pandas, openpyxl
 
 ## Setup
+```
 pip install -r requirements.txt
 python price_scraper.py
+```
 
 ## Output
 - `products.csv`
